@@ -1,2 +1,2 @@
 # first-angularjs-project
-A shopping list made using AngularJS
+Made for W3schools AngularJS project example.
